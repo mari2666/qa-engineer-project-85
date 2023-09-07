@@ -17,15 +17,15 @@
 
 - summary: |
       Проверка авторизации через Github.
-   requirement: |
+  requirement: |
       Возможность авторизации через Github.
-   prerequisites: |
+  prerequisites: |
       успешно зарегистрированный аккаунт Github.
-   test-data: |
+  test-data: |
       https://codebattle.hexlet.io/
-   steps:
+  steps:
      - нажать кнопку Sign In with GitHub
-   expected-result: |
+  expected-result: |
       Пользователь авторизован и попадает на главную страницу с сообщением Successfully authenticated.
 
 
@@ -116,6 +116,6 @@
      - ввести Email.
      - ввести новый пароль.
      - нажать кнопку кнопку Submit.
-   expected-result: |
+  expected-result: |
     Успешный вход в аккаунт с восстановленным паролем.
     
