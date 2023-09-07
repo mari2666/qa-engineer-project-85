@@ -9,18 +9,17 @@
 
 - summary: |
       Проверка авторизации через Github.
-   status: pass
+  status: pass
    
 
 
 - summary: |
     Проверка создания игры с другим пользователем.
    status: pass
-   
 
 - summary: |
      Проверка кнопки переключения языка. 
- status: pass
+  status: pass
  
 
 - summary: |
